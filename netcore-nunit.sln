@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.128
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-nunit", "netcore-nunit\netcore-nunit.csproj", "{AC8A4236-210C-4FEF-9F8D-DCBC81644E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-nunit.Tests", "netcore-nunit.Tests\netcore-nunit.Tests.csproj", "{15E0DB55-3494-43C7-A2B6-D059D7681BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8A4236-210C-4FEF-9F8D-DCBC81644E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8A4236-210C-4FEF-9F8D-DCBC81644E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8A4236-210C-4FEF-9F8D-DCBC81644E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8A4236-210C-4FEF-9F8D-DCBC81644E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E0DB55-3494-43C7-A2B6-D059D7681BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E0DB55-3494-43C7-A2B6-D059D7681BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E0DB55-3494-43C7-A2B6-D059D7681BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E0DB55-3494-43C7-A2B6-D059D7681BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCA9F09-2060-41D8-9FFE-CA6ED54B9A0A}
+	EndGlobalSection
+EndGlobal
